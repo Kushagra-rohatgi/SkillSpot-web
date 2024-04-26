@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Web dev",
+    "imageSrc": "skills/111.svg"
+  },
+  {
+    "title": "App dev",
+    "imageSrc": "skills/fl.svg"
+  },
+  {
+    "title": "AI/ML",
+    "imageSrc": "skills/py.svg"
+  },
+  {
+    "title": "Design",
+    "imageSrc": "skills/d.svg"
+  },
+  {
+    "title": "Editing",
+    "imageSrc": "skills/ed.svg"
+  },
+  {
+    "title": "Presentations",
+    "imageSrc": "skills/ms.svg"
+  },
+  {
+    "title": "SMM & Many more",
+    "imageSrc": "skills/speaker.svg"
+  }
+
+]
